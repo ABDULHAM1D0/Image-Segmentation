@@ -46,11 +46,7 @@ To segment user-specified objects in an image using SAM2 Large with prompt-based
 - Jupyter Notebook
 
 # 👨‍🎓 Intended Audience
-
 This project is intended as a beginner-level demonstration for students and developers who want to:
-
-Learn how SAM2 works
-
-Understand prompt-based image segmentation
-
-Experiment with foundation models in computer vision
+- Learn how SAM2 works
+- Understand prompt-based image segmentation
+- Experiment with foundation models in computer vision
