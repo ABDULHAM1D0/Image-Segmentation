@@ -26,42 +26,26 @@ To segment user-specified objects in an image using SAM2 Large with prompt-based
 
 # 🏗️ Model Information
 - Component	Details
-Model	Segment Anything Model 2 (SAM2)
-Variant	SAM2 Large
-Weights	Official pretrained weights from Meta
-Fine-tuning	❌ No fine-tuning (inference only)
-▶️ How to Run
+- Model	Segment Anything Model 2 (SAM2)
+- Variant	SAM2 Large
+- Weights	Official pretrained weights from Meta
+- Fine-tuning	❌ No fine-tuning (inference only)
 
-This project is implemented in a Jupyter Notebook.
+# ▶️ How to Run
+- This project is implemented in a Jupyter Notebook.
+- Run all cells step by step
+- Upload an image
+- Provide a point or box prompt to segment the object
+- The segmentation mask will be displayed and saved
 
-Install required dependencies (PyTorch, OpenCV, SAM2 libraries, etc.)
+# 🧰 Technologies Used
+- Python
+- PyTorch
+- SAM2 (Meta AI)
+- OpenCV
+- Jupyter Notebook
 
-Open the notebook:
-
-jupyter notebook
-
-
-Run all cells step by step
-
-Upload an image
-
-Provide a point or box prompt to segment the object
-
-The segmentation mask will be displayed and saved
-
-🧰 Technologies Used
-
-Python
-
-PyTorch
-
-SAM2 (Meta AI)
-
-OpenCV
-
-Jupyter Notebook
-
-👨‍🎓 Intended Audience
+# 👨‍🎓 Intended Audience
 
 This project is intended as a beginner-level demonstration for students and developers who want to:
 
