@@ -3,7 +3,7 @@ This project demonstrates interactive object segmentation using Meta's Segment A
 Users can upload an image and segment specific objects using prompts such as points or bounding boxes.
 The project is designed as a beginner-friendly demo to understand how modern foundation models can be used for image segmentation tasks.
 
-# 🎯 Project Goal
+# 🎯 Project Goal.
 To segment user-specified objects in an image using SAM2 Large with prompt-based guidance.
 
 # 📥 Input and 📤 Output
